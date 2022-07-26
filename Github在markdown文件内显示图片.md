@@ -8,7 +8,7 @@
 
 步骤二：在Github中选中上传的文件，并复制图片地址
 
-![Github在markdown文件内显示图片1](Github在markdown文件内显示图片1.jpg)
+![Github在markdown文件内显示图片1](https://github.com/afroginawell/BlogImages/blob/main/Github%E5%9C%A8markdown%E6%96%87%E4%BB%B6%E5%86%85%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%871.jpg)
 
 步骤三：把刚复制的图片的地址更新到Github中的markdown文件中对应位置，即可
 
