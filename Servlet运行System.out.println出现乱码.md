@@ -52,7 +52,7 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 
 设置Additional command line parameters选项为 -encoding utf-8
 
-![img](C:\Users\hp\Desktop\blog_images\Servlet运行System.out.println出现乱码2.jpg)
+![img](https://github.com/afroginawell/BlogImages/blob/main/Servlet运行System.out.println出现乱码2.jpg)
 
 ​	三个步骤搞完，再运行之前的检验编码的代码，查看是否修改成功。
 
@@ -60,22 +60,22 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 
 步骤一：Run/Debug Configuration->tomcat
 
-![image-20220726080324786](C:\Users\hp\Desktop\blog_images\Servlet运行System.out.println出现乱码4.jpg)
+![img](https://github.com/afroginawell/BlogImages/blob/main/Servlet运行System.out.println出现乱码4.jpg)
 
 将VM options设置为-Dfile.encoding=UTF-8，适用于以后所有tomcat文件都改为UTF-8编码 
 
-![img](C:\Users\hp\Desktop\blog_images\Servlet运行System.out.println出现乱码3.jpg)
+![img](https://github.com/afroginawell/BlogImages/blob/main/Servlet运行System.out.println出现乱码3.jpg)
 
 如果仅仅只是针对当前项目需要使用UTF-8编码，可选中当前项目的tomcat进行配置，将VM options设置为-Dfile.encoding=UTF-8
 
-![img](C:\Users\hp\Desktop\blog_images\Servlet运行System.out.println出现乱码5.jpg)
+![img](https://github.com/afroginawell/BlogImages/blob/main/Servlet运行System.out.println出现乱码5.jpg)
 
 如果不是IDEA编辑器，或者想要一劳永逸所有编辑器tomcat都采用UTF-8编码，可以设置一个环境变量
 
 变量名：`JAVA_TOOL_OPTIONS`
 变量值：`-Dfile.encoding=UTF-8`
 
-![img](C:\Users\hp\Desktop\blog_images\Servlet运行System.out.println出现乱码6.jpg)
+![img](https://github.com/afroginawell/BlogImages/blob/main/Servlet运行System.out.println出现乱码6.jpg)
 
 配置完环境变量，就可以删除刚刚设置的tomcat中的内容，重启idea，查看配置完的效果，利用测试编码格式的代码进行测试
 
