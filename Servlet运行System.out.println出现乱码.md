@@ -32,7 +32,7 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 
 步骤一：File->Setting->Editor->File Encodings
 
-![img](https://github.com/afroginawell/Blog/edit/main/Servlet%E8%BF%90%E8%A1%8CSystem.out.println%E5%87%BA%E7%8E%B0%E4%B9%B1%E7%A0%81.md)
+![img](https://github.com/afroginawell/BlogImages/blob/main/Servlet%E8%BF%90%E8%A1%8CSystem.out.println%E5%87%BA%E7%8E%B0%E4%B9%B1%E7%A0%811.jpg)
 
 步骤二：修改encodings.xml文件
 
