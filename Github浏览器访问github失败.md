@@ -8,9 +8,9 @@ https://tool.chinaz.com/ 站长工具网站
 
 找到DNS查询，检索框内输入www.github.com进行检索，在出现的结果中选择TTL值最小的一个对应的响应IP，复制下来
 
-![Github浏览器访问github失败1](Github浏览器访问github失败1.PNG)
+![Github浏览器访问github失败1](https://github.com/afroginawell/BlogImages/blob/main/Github浏览器访问github失败1.png)
 
-![Github浏览器访问github失败2](Github浏览器访问github失败2.PNG)
+![Github浏览器访问github失败2](https://github.com/afroginawell/BlogImages/blob/main/Github浏览器访问github失败2.png)
 
 步骤二：修改本机电脑host文件
 
@@ -22,6 +22,6 @@ https://tool.chinaz.com/ 站长工具网站
 
 ctrl+r打开控制命令符，输入cmd，打开cmd.exe程序，输入:ipconfig/flushdns"，按下键盘回车键，出现下图所示即可
 
-![Github浏览器访问github失败3](Github浏览器访问github失败3.PNG)
+![Github浏览器访问github失败3](https://github.com/afroginawell/BlogImages/blob/main/Github浏览器访问github失败3.png)
 
 步骤四：浏览器访问www.github.com，出现欢迎界面，表示设置成功
