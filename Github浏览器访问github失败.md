@@ -10,7 +10,7 @@ https://tool.chinaz.com/ 站长工具网站
 
 ![Github浏览器访问github失败1](https://github.com/afroginawell/BlogImages/blob/main/Github浏览器访问github失败1.png)
 
-![Github浏览器访问github失败2](https://github.com/afroginawell/BlogImages/blob/main/Github浏览器访问github失败2.png)
+![Github浏览器访问github失败2](https://github.com/afroginawell/BlogImages/blob/main/Github浏览器访问github失败2.PNG)
 
 步骤二：修改本机电脑host文件
 
@@ -22,6 +22,6 @@ https://tool.chinaz.com/ 站长工具网站
 
 ctrl+r打开控制命令符，输入cmd，打开cmd.exe程序，输入:ipconfig/flushdns"，按下键盘回车键，出现下图所示即可
 
-![Github浏览器访问github失败3](https://github.com/afroginawell/BlogImages/blob/main/Github浏览器访问github失败3.png)
+![Github浏览器访问github失败3](https://github.com/afroginawell/BlogImages/blob/main/Github浏览器访问github失败3.PNG)
 
 步骤四：浏览器访问www.github.com，出现欢迎界面，表示设置成功
