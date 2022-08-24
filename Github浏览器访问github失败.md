@@ -16,7 +16,7 @@ https://tool.chinaz.com/ 站长工具网站
 
 针对windows操作系统，打开“C:\Windows\System32\drivers\etc”，用记事本打开“hosts”文件，在文件最后添加“【复制下来的响应IP】 www.github.com”
 
-以上图为例：在hosts文件最后添加"20.205.243.166 www.github.com"
+以上图为例：在hosts文件最后添加"20.205.243.166 github.com"
 
 步骤三：刷新电脑dns缓存
 
